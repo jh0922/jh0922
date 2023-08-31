@@ -1,4 +1,13 @@
-# 🏄‍♂️ Jinhau (Aaron) Liu
+<h1 align="center"> 
+<b>Jinhau (Aaron) Liu</b>
+</h1> 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;I+am+Jinhau+(Aaron)+Liu!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+# 🏄‍♂️ About Me
 
 ### Connect with me
 <p align="left">
