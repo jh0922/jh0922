@@ -10,7 +10,7 @@
 **`Software Engineer | MSc Computer Science Student`**
 <br>
 
-### 🔧 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -27,7 +27,7 @@
 <br />
 <br>
 
-### 💬 Connect with me
+### Connect with me
 <p>
 <!-- Github -->
 <a 
@@ -53,7 +53,7 @@
         src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
     </img>    
 </a>
+<be>
 
-
-### 📊 Stat
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jh0922&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Jinhau's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0922&theme=github_dark&layout=compact&hide_border=true" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jh0922&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Jinhau's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0922&theme=github_dark&layout=compact&hide_border=true" /></a>
