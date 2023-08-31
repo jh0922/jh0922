@@ -8,11 +8,6 @@
 
 # 🏄‍♂️ About Me
 
-### 💬 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/jinhau-aaron-liu-2128831a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jinhau (Aaron)" height="30" width="40" /></a>
-</p>
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -27,3 +22,32 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+<br>
+
+### 💬 Connect with me
+<p>
+<!-- Github -->
+<a 
+    target="_blank" 
+    href="https://github.com/jh0922">
+    <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+    </img>    
+</a>
+<!-- LinkedIn -->
+<a 
+    target="_blank"
+    href="https://www.linkedin.com/in/jinhau-aaron-liu-2128831a3/">
+    <img
+        src="https://img.shields.io/badge/-LinkedIn-0077D9?style=for-the-badge&logo=Linkedin&logoColor=white">
+    </img>
+</a>
+<!-- GMail -->
+<a 
+    target="_blank" 
+    href="mailto:vip0922@gmail.com">
+    <img
+        src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+    </img>    
+</a>
+
