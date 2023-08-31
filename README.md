@@ -1,5 +1,10 @@
 # 🏄‍♂️ Jinhau (Aaron) Liu
 
+### Connect with me
+<p align="left">
+<a href="www.linkedin.com/in/jinhau-aaron-liu-2128831a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jinhau (Aaron)" height="30" width="40" /></a>
+</p>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
