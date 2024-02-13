@@ -7,7 +7,7 @@
 </p>
 
 # 👨‍💻 About Me
-**`Software Engineer | MSc Computer Science Student`**
+**`Software Engineer | MSc Computer Science`**
 <br>
 
 ### Languages and Tools
