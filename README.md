@@ -3,7 +3,7 @@
 </h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;I+am+Jinhau+(Aaron)+Liu!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;I+am+Jinhau+Liu!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 # 👨‍💻 About Me
@@ -40,7 +40,7 @@
 <!-- LinkedIn -->
 <a 
     target="_blank"
-    href="https://www.linkedin.com/in/jinhau-aaron-liu-2128831a3/">
+    href="https://www.linkedin.com/in/jh922/">
     <img
         src="https://img.shields.io/badge/-LinkedIn-0077D9?style=for-the-badge&logo=Linkedin&logoColor=white">
     </img>
