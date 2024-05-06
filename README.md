@@ -1,5 +1,5 @@
 <h1 align="center"> 
-<b>Jinhau (Aaron) Liu</b>
+<b>Jinhau Liu</b>
 </h1> 
 
 <p align="center">
